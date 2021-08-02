@@ -1,2 +1,2 @@
 # Indigo
-Gobind's Page
+Gobind
